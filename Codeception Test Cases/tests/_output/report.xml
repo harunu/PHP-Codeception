@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="acceptance" tests="5" assertions="8" errors="0" failures="0" skipped="0" time="243.458911">
+    <testcase file="C:\xampp\php\tests\acceptance\FirstCest.php" name="frontpageWorks" class="FirstCest" feature="frontpage works" assertions="0" time="7.968489"/>
+    <testcase file="C:\xampp\php\tests\acceptance\LoginCest.php" name="tryToTestLogin" class="LoginCest" feature="try to test login" assertions="4" time="61.391311"/>
+    <testcase file="C:\xampp\php\tests\acceptance\ProCest.php" name="tryToTestProYoutube" class="ProCest" feature="test Youtube link" assertions="1" time="58.824072"/>
+    <testcase file="C:\xampp\php\tests\acceptance\ProCest.php" name="tryToTestRequestConsultation" class="ProCest" feature="test Request Consultation" assertions="1" time="52.240736"/>
+    <testcase file="C:\xampp\php\tests\acceptance\RegisterCest.php" name="tryToTestRegistrationPage" class="RegisterCest" feature="test Register" assertions="2" time="63.034303"/>
+  </testsuite>
+</testsuites>
